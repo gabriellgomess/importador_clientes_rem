@@ -15,34 +15,40 @@ const theme = {
     Button: {
       colorPrimary: '#d0872b',
       colorPrimaryHover: '#f9b967',
-      colorPrimaryActive: '##935302',
-      colorPrimaryFocus: '##935302',
+      colorPrimaryActive: '#935302',
+      colorPrimaryFocus: '#935302',
 
     },
     Input: {
       colorPrimary: '#d0872b',
-      colorPrimaryActive: '##935302',
-      colorPrimaryFocus: '##935302',
+      colorPrimaryActive: '#935302',
+      colorPrimaryFocus: '#935302',
       colorPrimaryHover: '#f9b967',
     },
     Select: {
       colorPrimary: '#d0872b',
-      colorPrimaryActive: '##935302',
-      colorPrimaryFocus: '##935302',
+      colorPrimaryActive: '#935302',
+      colorPrimaryFocus: '#935302',
       colorPrimaryHover: '#f9b967',
     },  
     Tabs: {
       colorPrimary: '#d0872b',
-      colorPrimaryActive: '##935302',
-      colorPrimaryFocus: '##935302',
+      colorPrimaryActive: '#935302',
+      colorPrimaryFocus: '#935302',
       colorPrimaryHover: '#f9b967',
     },
     DatePicker: {
       colorPrimary: '#d0872b',
-      colorPrimaryActive: '##935302',
-      colorPrimaryFocus: '##935302',
+      colorPrimaryActive: '#935302',
+      colorPrimaryFocus: '#935302',
       colorPrimaryHover: '#f9b967',
-    }  
+    },
+    Spin: {
+      colorPrimary: '#fff',
+      colorPrimaryActive: '#935302',
+      colorPrimaryFocus: '#935302',
+      colorPrimaryHover: '#f9b967',
+    },  
   },
 };
 
